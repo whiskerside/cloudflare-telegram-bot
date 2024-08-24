@@ -4,6 +4,8 @@
 
 This is a Cloudflare Workers application designed to receive external requests and forward alert messages to a Telegram bot. It provides a simple yet powerful way to integrate alerting functionality from various systems and send instant notifications via Telegram.
 
+![Telegram Alert Bot for Cloudflare Workers](./screenshot.png)
+
 ## Key Features
 
 1. Receive external HTTP POST requests
